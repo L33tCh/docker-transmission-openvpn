@@ -136,6 +136,7 @@ This is a list of providers that are bundled within the image. Feel free to crea
 | VPN.ht | `VPNHT` |
 | VPNBook.com | `VPNBOOK` |
 | VPNFacile | `VPNFACILE` |
+| VPNForever | `VPNFOREVER` |
 | VPNTunnel | `VPNTUNNEL` |
 | VyprVpn | `VYPRVPN` |
 
